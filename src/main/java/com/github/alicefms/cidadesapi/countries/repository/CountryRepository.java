@@ -1,4 +1,4 @@
-package com.github.alicefms.cidadesapi.repository;
+package com.github.alicefms.cidadesapi.countries.repository;
 
 import com.github.alicefms.cidadesapi.countries.Country;
 import org.springframework.data.jpa.repository.JpaRepository;
